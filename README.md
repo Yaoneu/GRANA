@@ -15,3 +15,10 @@ doi = {https://doi.org/10.1016/j.ins.2025.122014},
 url = {https://www.sciencedirect.com/science/article/pii/S002002552500146X},
 author = {Yao Li and He Cai and Huilin Liu},
 keywords = {Graph convolutional network, Representation learning, Network alignment, Attributed network, Multi-task learning},}
+
+# requirement
+python == 3.9
+
+pytorch == 2.1.1
+
+torch_geometric
